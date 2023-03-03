@@ -1,0 +1,25 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+    background-color: lightgray;
+}
+
+h1 {
+    font-family: 'Rampart One';
+    color: red;
+    font-size: 4em;
+    margin: 15px auto;
+}
+
+img {
+    height: 600px;
+    margin: 15px auto;
+
+}
+
+button {
+    background: red;
+    font-size: 25px;
+    border-radius: 5%;
+    margin: 15px auto;
+}
